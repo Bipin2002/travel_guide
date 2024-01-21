@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18954209799",
+    "project_id": "hello-f99b4",
+    "storage_bucket": "hello-f99b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18954209799:android:6b03c831d45924a96fb8a2",
+        "android_client_info": {
+          "package_name": "com.bipin.tourist_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBu3f0V0rAiCRHBpsCEDyOn3M46OcXpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
